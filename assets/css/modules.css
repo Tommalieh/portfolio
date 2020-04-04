@@ -521,3 +521,16 @@ button,
         #main > section.four {
             background-color: #e8edec;
         }
+
+        video{
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 80.3%;
+        filter: brightness(0.5);
+        filter: blur(11px);
+        }
+
+        #top .container header{
+            position: relative;
+        }
