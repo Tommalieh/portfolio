@@ -1522,7 +1522,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				/* font-size: 17pt; */
 			}
 
 		/* Header */
@@ -1643,7 +1643,7 @@
 			}
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 14pt;
 			}
 
 			header br {
